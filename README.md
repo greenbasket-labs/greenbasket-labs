@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I’m Musbahu 👋
 
-<!--
-**greenbasket-labs/greenbasket-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-leaning blockchain developer building governance, protocol, and zero-knowledge infrastructure.
 
-Here are some ideas to get you started:
+### What I’m building
+- 🧱 Protocol-level blockchain systems (Continuum Protocol)
+- 🗳️ On-chain governance & voting (Casper, Solidity)
+- 🔐 Zero-knowledge & privacy infrastructure (SP1 zkVM, ZK research)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus (2026)
+- Protocol & backend blockchain engineering
+- Zero-knowledge infrastructure (SP1, zkVMs)
+- Open-source contributions, hackathons, and grants
+
+### Selected work
+- 🧱 **Continuum Protocol** – protocol-level blockchain architecture & research  
+- 🗳️ **Casper Governance Voting** – on-chain governance & DAO voting system  
+- 🔐 **Zama FHE Smart Contracts** – privacy-preserving smart contracts  
+- 🧪 **Succinct SP1 zkVM Learning** – documented ZK infrastructure journey  
+
+### Tech stack
+- Solidity, Rust (learning)
+- Smart contracts & protocol design
+- Zero-knowledge systems (SP1, zkVM concepts)
+- GitHub, Remix, protocol research
+
+📍 Open to: Backend / Protocol / Solidity roles  
+📫 Contact: DM on X (@GreenBasketLabs)
