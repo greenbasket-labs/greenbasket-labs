@@ -1,40 +1,51 @@
-## Hi, I’m Abdullahi 👋
 
-Backend-leaning blockchain developer focused on protocol design,  
-on-chain governance, and zero-knowledge infrastructure.
+## Hi, I’m Mohammed (Abdullahi) 👋  
+Smart Contract Developer & Security-Focused Auditor
 
-## What I’m building
-- 🧱 Protocol-level blockchain systems (Continuum Protocol)
-- 🗳️ On-chain governance & voting systems
-- 🔐 Zero-knowledge & privacy infrastructure (SP1 zkVM, ZK research)
+Backend-leaning blockchain developer focused on secure smart contract architecture, 
+protocol design, and governance systems.
 
-## Status
-Early-stage research & prototyping.  
-No production deployments yet.
+---
 
-## Current focus (2026)
-- Backend & protocol blockchain engineering
-- Zero-knowledge infrastructure (zkVMs, SP1)
-- Open-source work, audits, hackathons, and grants
+## Core Focus
+- 🔐 Smart contract security & audit participation
+- 🧱 Protocol-level contract architecture
+- 🗳️ Governance & staking systems
+- ⚙️ Solidity development with Hardhat / Foundry
 
-## Selected work
-- 🧱 **Continuum Protocol** — protocol architecture & inheritance research  
-- 🗳️ **Casper Governance Voting** — on-chain governance system  
-- 🔐 **Zama FHE Smart Contracts** — privacy-preserving contract patterns  
-- 🧪 **Succinct SP1 zkVM Learning** — documented zero-knowledge learning journey  
+---
+
+## Selected Work
+- 🧱 **Continuum Protocol** — non-custodial, time-based digital asset inheritance architecture
+- 🗳️ **Casper Governance Voting** — on-chain governance system design
+- 🔐 **Zama FHE Smart Contracts** — privacy-preserving contract patterns (research)
+- 🧪 **SP1 zkVM Learning** — documented zero-knowledge experimentation
+
+---
 
 ## Security & Audits
 - 🛡️ **Code4rena – Rujira Audit (Dec 2025 – Jan 2026)**  
-  Participated in a competitive audit covering Ghost Lending, Ghost Credit, and vault logic on THORChain (CosmWasm / Rust).  
-  Focus areas included liquidation safety, LTV invariants, access control, and debt accounting.
+  Contributed to competitive audit covering Ghost Lending, Ghost Credit, and vault logic  
+  on THORChain (CosmWasm / Rust).  
+  Focus areas: liquidation safety, LTV invariants, access control, debt accounting.
 
-- 🔍 Ongoing participation in public audits and bug bounties (Rust / Solidity).
+- 🔍 Active participation in public audits and Web3 bug bounties (Solidity / Rust).
 
-## Tech stack
-- Solidity, Rust (actively learning & applying)
-- Smart contract & protocol design
-- Zero-knowledge systems (zkVM concepts)
-- GitHub, Remix, protocol research
+---
 
-📍 Open to: Backend / Protocol / Solidity roles  
-📫 Contact: DM on X (@GreenBasketLabs)
+## Technical Stack
+- **Languages:** Solidity, Rust
+- **Tooling:** Hardhat, Foundry, GitHub Actions
+- **Domains:** DeFi, governance systems, protocol security
+- **Practices:** invariant thinking, edge-case analysis, test-driven development
+
+---
+
+## Current Direction (2026)
+Building audit depth while developing secure, minimal smart contract systems.  
+Focused on correctness, security guarantees, and protocol-level design.
+
+---
+
+📍 Open to: Smart Contract Development | Security Review | Protocol Engineering  
+📫 Contact: X (@GreenBasketLabs)
