@@ -1,49 +1,45 @@
+## Hi, I’m Mohammed (Abdullahi) 👋
 
-## Hi, I’m Mohammed (Abdullahi) 👋  
-Smart Contract Developer & Security-Focused Auditor
+Smart Contract Developer & Security-Focused Auditor.
 
-Backend-leaning blockchain developer focused on secure smart contract architecture, 
-protocol design, and governance systems.
-
----
-
-## Core Focus
-- 🔐 Smart contract security & audit participation
-- 🧱 Protocol-level contract architecture
-- 🗳️ Governance & staking systems
-- ⚙️ Solidity development with Hardhat / Foundry
+I design, implement, and review Solidity contracts with a security-first mindset — focused on correctness, invariants, and exploit resistance.
 
 ---
 
-## Selected Work
-- 🧱 **Continuum Protocol** — non-custodial, time-based digital asset inheritance architecture
-- 🗳️ **Casper Governance Voting** — on-chain governance system design
-- 🔐 **Zama FHE Smart Contracts** — privacy-preserving contract patterns (research)
-- 🧪 **SP1 zkVM Learning** — documented zero-knowledge experimentation
+## 🔐 Core Focus
+
+- Smart contract security & competitive audits
+- Solidity-based protocol architecture
+- Governance, staking & DeFi systems
+- Test-driven development (Hardhat / Foundry)
+- Edge-case & invariant modeling
 
 ---
 
-## Security & Audits
-- 🛡️ **Code4rena – Rujira Audit (Dec 2025 – Jan 2026)**  
-  Contributed to competitive audit covering Ghost Lending, Ghost Credit, and vault logic  
-  on THORChain (CosmWasm / Rust).  
+## 🧱 Selected Work
+
+- **Continuum Protocol** — non-custodial, time-based digital asset inheritance architecture  
+- **Casper Governance Voting** — on-chain governance system  
+- **Zama FHE Smart Contracts** — privacy-preserving contract patterns in Solidity  
+
+---
+
+## 🛡 Security & Audits
+
+- **Code4rena – Rujira Audit (Dec 16, 2025 – Jan 16, 2026)**  
+  Contributed to competitive audit covering Ghost Lending, Ghost Credit, and vault logic on THORChain (CosmWasm / Rust).  
   Focus areas: liquidation safety, LTV invariants, access control, debt accounting.
 
-- 🔍 Active participation in public audits and Web3 bug bounties (Solidity / Rust).
+- Ongoing participation in public audits and Web3 bug bounties (Solidity / Rust).
 
 ---
 
-## Technical Stack
-- **Languages:** Solidity, Rust
-- **Tooling:** Hardhat, Foundry, GitHub Actions
-- **Domains:** DeFi, governance systems, protocol security
-- **Practices:** invariant thinking, edge-case analysis, test-driven development
+## ⚙️ Technical Stack
 
----
-
-## Current Direction (2026)
-Building audit depth while developing secure, minimal smart contract systems.  
-Focused on correctness, security guarantees, and protocol-level design.
+**Languages:** Solidity, Rust  
+**Frameworks:** Hardhat, Foundry  
+**Domains:** DeFi, Governance, Protocol Security  
+**Practices:** Invariant reasoning, exploit modeling, security-first development
 
 ---
 
