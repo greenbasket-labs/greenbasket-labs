@@ -71,6 +71,8 @@ I also participate in public Web3 security research and bug-bounty/audit ecosyst
 | [Casper Governance Voting](https://github.com/greenbasket-labs/casper-governance-voting) | Governance | On-chain voting prototype |
 | [Zama FHE Smart Contracts](https://github.com/greenbasket-labs/zama-fhe-smart-contracts) | Privacy / Web3 | FHE smart-contract patterns |
 | [MINTLINE](https://github.com/greenbasket-labs/MINTLINE) | Solana / Systems | Execution-control and safety MVP |
+| [Bridge Hosting](https://github.com/greenbasket-labs/bridge-hosting) | Infrastructure | Provider-independent hosting control plane |
+| [School Management System](https://github.com/greenbasket-labs/school-management-system) | Product Engineering | Configuration-driven school platform reference |
 
 ---
 
@@ -93,6 +95,17 @@ Next.js · PostgreSQL · Prisma · Node.js
 Blockchain Analytics · Data Engineering · Backtesting · Invariant Modeling · Exploit Modeling
 
 ---
+
+## 🧪 Engineering Evidence
+
+I try to keep important projects verifiable rather than presenting prototypes as finished products:
+
+- Automated CI where the repository supports it
+- Explicit prototype/research/production status
+- Security boundaries and responsible-use notes
+- Reproducible setup instructions
+- Architecture and roadmap documentation
+- Tests and end-to-end verification where available
 
 ## 🌍 Open Source & Collaboration
 
