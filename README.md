@@ -4,7 +4,7 @@
 
 I build and research software across **Web3, protocol security, data systems, and product engineering**.
 
-My work ranges from Solidity/Rust smart-contract systems and competitive security research to building real-world products such as **SkulGo** and researching blockchain behavior with **ChainScope**.
+My work ranges from Solidity/Rust smart-contract systems and competitive security research to building real-world products such as **SkulGo** and researching blockchain behavior through the **ChainScope** research work.
 
 ---
 
@@ -29,7 +29,10 @@ Focus areas include:
 - Next.js, PostgreSQL, Prisma
 
 ### 🔬 Blockchain Research
-**ChainScope** — a modular blockchain behavior research platform designed to investigate large numbers of Solana tokens and discover recurring patterns from evidence.
+**ChainScope** — a modular research direction for investigating blockchain/token behavior and discovering recurring patterns from evidence.
+
+Public research work includes:
+- [ChainScope Progressive Alpha Pool](https://github.com/greenbasket-labs/ChainScope-Progressive-Alpha-Pool) — configurable token discovery and progressive observation
 
 Research principles:
 - Collect evidence before assigning conclusions
@@ -63,11 +66,11 @@ I also participate in public Web3 security research and bug-bounty/audit ecosyst
 | Project | Area | Focus |
 |---|---|---|
 | [SkulGo](https://github.com/greenbasket-labs/skulgo) | Product / EdTech | School management infrastructure |
-| [Chain-Scope](https://github.com/greenbasket-labs/Chain-Scope) | Blockchain Research | Solana behavior research |
+| [ChainScope Progressive Alpha Pool](https://github.com/greenbasket-labs/ChainScope-Progressive-Alpha-Pool) | Blockchain Research | Configurable token research pipeline |
 | [Continuum Protocol](https://github.com/greenbasket-labs/continuum-protocol) | Web3 | Non-custodial digital-asset inheritance |
 | [Casper Governance Voting](https://github.com/greenbasket-labs/casper-governance-voting) | Governance | On-chain voting prototype |
 | [Zama FHE Smart Contracts](https://github.com/greenbasket-labs/zama-fhe-smart-contracts) | Privacy / Web3 | FHE smart-contract patterns |
-| [MINTLINE](https://github.com/greenbasket-labs/MINTLINE) | Web3 | Experimental protocol/product research |
+| [MINTLINE](https://github.com/greenbasket-labs/MINTLINE) | Solana / Systems | Execution-control and safety MVP |
 
 ---
 
@@ -109,7 +112,7 @@ I'm also interested in collaborating on technically ambitious products and resea
 ## 📌 Current Focus
 
 - Building and improving **SkulGo**
-- Developing **ChainScope**
+- Developing the **ChainScope** research work
 - Smart-contract security research
 - Open-source contributions
 - Web3 protocol engineering
